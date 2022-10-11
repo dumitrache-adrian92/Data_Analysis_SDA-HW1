@@ -1,4 +1,4 @@
-The purpose of this assignment was to get as comfortable as possible with the usage of lists by implementing a bunch data analysis algorithms using a doubly linked lists, these include eliminating exceptions, eliminating noise through 2 different methods, uniformization, completion of data and statistics. 
+The purpose of this assignment was to get as comfortable as possible with the usage of lists by implementing a bunch data analysis algorithms using doubly linked lists. These include eliminating exceptions, eliminating noise through 2 different methods, uniformization, completion of data and statistics. 
 
 Usage: (Linux instructions, can be done on Windows as well slightly differently)
 - use the make command
